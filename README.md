@@ -5,7 +5,7 @@ While research into factorization is my main passion, I also need to earn a livi
 1. Perform source code auditing for security vulnerabilities (i.e open source)
 2. Perform black box auditing for security vulnerabilities by means of reverse engineering.
 3. Talk about my math work and how I started with zero math knowledge as a highschool dropout 3 years ago and the strategies I used to attack the factorization problem. (I would probably do this for free even)
-4. Selling research. Aside from my work into factorization I'm also starting some other projects, which I want to sell and make money from.
+4. Selling research. Aside from my work into factorization I'm also starting some other projects, which I want to sell and make money from. My main focus will be novel and creative research, things that won't be recreated by AI anytime soon.
 5. I might also consider fulltime employment.
 
 Email: big_polar_bear1@proton.me
